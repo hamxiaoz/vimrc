@@ -1,0 +1,3 @@
+[submodule "sources_forked/sonofobsidian_hamxiaoz"]
+	path = sources_forked/sonofobsidian_hamxiaoz
+	url = git@github.com:hamxiaoz/sonofobsidian_hamxiaoz.git

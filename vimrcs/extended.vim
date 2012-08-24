@@ -27,11 +27,12 @@ elseif has("linux")
     set shell=/bin/bash
 endif
 
+" hamxiaoz don't go to fullscreen mode on mac
 " Open MacVim in fullscreen mode
-if has("gui_macvim")
-    set fuoptions=maxvert,maxhorz
-    au GUIEnter * set fullscreen
-endif
+"if has("gui_macvim")
+    "set fuoptions=maxvert,maxhorz
+    "au GUIEnter * set fullscreen
+"endif
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
