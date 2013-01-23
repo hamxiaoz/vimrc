@@ -47,7 +47,7 @@ if has("win16") || has("win32")
 
     " CTRL+T and CTRL+W to open and close tab
     map <C-T> :tabnew<cr>
-    map <C-W> :tabclose<cr>
+    "map <C-W> :tabclose<cr> " use the default CTRL+W for window/split management. To close tab, you can use CTRL+W Q
 
     " ** copied from mvwin.vim **
 
