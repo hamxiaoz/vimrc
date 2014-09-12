@@ -1,7 +1,7 @@
 This is a fork of [The Ultimate vimrc](https://github.com/amix/vimrc).
 
 ## How to install it?
-	git clone git://github.com/amix/vimrc.git ~/.vim_runtime
+	git clone git@github.com:hamxiaoz/vimrc.git ~/.vim_runtime
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
     cd ~/.vim_runtime
     git submodule update --init
